@@ -6,7 +6,7 @@ This Repo contains Fundamentals for the DART language. We know that fundamentals
 
 Contains :
 * Fundamental
-* Data Struktur
+* Data Structure
 * Basic Dart
 
 **May the Force be with you**
